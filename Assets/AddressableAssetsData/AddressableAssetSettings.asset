@@ -40,6 +40,7 @@ MonoBehaviour:
   m_GroupAssets:
   - {fileID: 11400000, guid: 33e54d18c9b601545b25e78df681a708, type: 2}
   - {fileID: 11400000, guid: ce138796ced4cc54cbf51d65df4b9421, type: 2}
+  - {fileID: 11400000, guid: 8f9e3fa27f1002f44aa8bcecbf9621cd, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -60,7 +61,7 @@ MonoBehaviour:
       - m_Id: bc71f710b4a78464882d03bc7c043e3b
         m_Value: ServerData/[BuildTarget]
       - m_Id: da36bdbe1a8cea44b91ab223d395eac7
-        m_Value: https://YOURDOMAINHERE/PATH/TO/ADDRESSABLES/[BuildTarget]
+        m_Value: https://holofair.b-cdn.net/addressables/metaverse/sample/[BuildTarget]
     m_ProfileEntryNames:
     - m_Id: 215772a37cf4b1b43ade4595562924a6
       m_Name: BuildTarget

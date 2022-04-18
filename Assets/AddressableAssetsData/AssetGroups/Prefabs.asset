@@ -10,60 +10,60 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Default Local Group
+  m_Name: Prefabs
   m_EditorClassIdentifier: 
-  m_GroupName: Default Local Group
+  m_GroupName: Prefabs
   m_Data:
     m_SerializedData: []
-  m_GUID: 0cb12a4a23a54d040ac4f7bb6c9917fa
+  m_GUID: d33e4daeab7d00a4c85f671eb0b4a80c
   m_SerializeEntries:
-  - m_GUID: 5467d9d98ece26a4e9a1351f8d4f28ac
-    m_Address: 1.GetStarted
+  - m_GUID: 9cfe8dd3ed8657c49bc98c3db670c7e6
+    m_Address: '!!!ESSENTIALS!!!'
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 43e81cf169930ce489ddcef7703e1a4b
-    m_Address: 2.Videos
+  - m_GUID: 3f8ea082efd24f3498bccca956b53603
+    m_Address: GameQueuer
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: bd37f854f3043a946834e6c297c10008
-    m_Address: 3.Links
+  - m_GUID: 1f346a0c885bb35429918f881412bdd4
+    m_Address: Image
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: ceeeb132d316dbc41a7f22424a4801b9
-    m_Address: 4.Images
+  - m_GUID: cd03c2a9aaf25cf478ee9cef1dddab47
+    m_Address: Link
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: b3f75c136655bf14fbd3253662fa1792
-    m_Address: 5.UserAnimations
+  - m_GUID: c96f4f611bbb81c418b0743bb5d84de6
+    m_Address: Portal
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 31328b59d81323d46aeea61847f0b6ec
-    m_Address: 6.Animators
+  - m_GUID: 1dacf81ad86132b428997bceb5f3f287
+    m_Address: Sitting
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: ae8f525717fbef04aa7ce0075c90d15d
-    m_Address: 7.Privileges
+  - m_GUID: 22fb0faad14bf384c8b9c5e61942fe69
+    m_Address: UserRow
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 15ed4262d605a1a43b6d5e5ac5cc7f0f
-    m_Address: 8.ControlLocks
+  - m_GUID: 42cecdef75f273047806d3edd84b3082
+    m_Address: VideoOnClick
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: cb9f60fcce0a15f48902e52c522b3e52
-    m_Address: 9.0.Parkour
+  - m_GUID: 4bd68da39ab727243a4476a6c99c9958
+    m_Address: VideoOnTrigger
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: d0f18631b681a4a45a8eaa61511012ab
-    m_Address: 9.1.Parkour
+  - m_GUID: 6770c08e89e61de42b88960a693422c7
+    m_Address: Zone
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: a59b8c8da3d187248a41b8b76e18e512
-    m_Address: 10.ZoneTalks
+  - m_GUID: f6d5d87ec32475348899063e7c1ca2d1
+    m_Address: ZoneTalk
     m_ReadOnly: 0
     m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: d00becaeafae8a343b3a317a871d1a01, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 0b361ab090908304e90e7fcabd2d0fbe, type: 2}
-    - {fileID: 11400000, guid: 88e545d4a0a843648b18d964beb74e84, type: 2}
+    - {fileID: 11400000, guid: 4c84553afbe577049bb47100fd1a7c46, type: 2}
+    - {fileID: 11400000, guid: 048352c0717a6ec4f85e6b1895faa68d, type: 2}
