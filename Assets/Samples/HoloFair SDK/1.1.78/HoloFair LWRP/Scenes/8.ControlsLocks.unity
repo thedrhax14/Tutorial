@@ -349,7 +349,7 @@ GameObject:
   - component: {fileID: 392448176}
   - component: {fileID: 392448175}
   m_Layer: 5
-  m_Name: Button (1)
+  m_Name: Button - Open UI and Lock controls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -587,7 +587,7 @@ PrefabInstance:
       objectReference: {fileID: 938239492}
     - target: {fileID: 6656477010810260577, guid: 0be898af05b5d884eb49f80c6ef80396, type: 3}
       propertyPath: venueName
-      value: 8.ControlLocks
+      value: 8.ControlsLocks
       objectReference: {fileID: 0}
     - target: {fileID: 6656477010823369392, guid: 0be898af05b5d884eb49f80c6ef80396, type: 3}
       propertyPath: m_text
@@ -1641,7 +1641,7 @@ GameObject:
   - component: {fileID: 1525219793}
   - component: {fileID: 1525219792}
   m_Layer: 5
-  m_Name: Button
+  m_Name: Button - Open UI
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2171,7 +2171,7 @@ GameObject:
   - component: {fileID: 1918862927}
   - component: {fileID: 1918862926}
   m_Layer: 5
-  m_Name: Button
+  m_Name: Button - Close UI and Unlock controls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -46,7 +46,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 15ed4262d605a1a43b6d5e5ac5cc7f0f
-    m_Address: 8.ControlLocks
+    m_Address: 8.ControlsLocks
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: cb9f60fcce0a15f48902e52c522b3e52
