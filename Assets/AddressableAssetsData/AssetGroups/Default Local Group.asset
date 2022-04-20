@@ -61,6 +61,10 @@ MonoBehaviour:
     m_Address: 10.ZoneTalks
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: af21059d1bf7ec748b36a3116af38a2a
+    m_Address: WorldSettings
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: d00becaeafae8a343b3a317a871d1a01, type: 2}
   m_SchemaSet:
