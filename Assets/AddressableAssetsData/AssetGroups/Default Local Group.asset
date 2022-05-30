@@ -17,51 +17,23 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 0cb12a4a23a54d040ac4f7bb6c9917fa
   m_SerializeEntries:
-  - m_GUID: 5467d9d98ece26a4e9a1351f8d4f28ac
+  - m_GUID: 7be6ce06728fd56479805e2063e8751a
+    m_Address: 3.Advanced
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 32f6c1c65e1ec5f46bc5a5944bdca0a8
+    m_Address: 2.Basic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a5acd4271a2c4974ebf732f6381f5cc6
     m_Address: 1.GetStarted
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 43e81cf169930ce489ddcef7703e1a4b
-    m_Address: 2.Videos
+  - m_GUID: 1a2907e7c3133f4439b58d088b5becea
+    m_Address: 0.MainScene
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: bd37f854f3043a946834e6c297c10008
-    m_Address: 3.Links
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: ceeeb132d316dbc41a7f22424a4801b9
-    m_Address: 4.Images
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: b3f75c136655bf14fbd3253662fa1792
-    m_Address: 5.UserAnimations
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 31328b59d81323d46aeea61847f0b6ec
-    m_Address: 6.Animators
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: ae8f525717fbef04aa7ce0075c90d15d
-    m_Address: 7.Privileges
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 15ed4262d605a1a43b6d5e5ac5cc7f0f
-    m_Address: 8.ControlsLocks
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: cb9f60fcce0a15f48902e52c522b3e52
-    m_Address: 9.0.Parkour
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: d0f18631b681a4a45a8eaa61511012ab
-    m_Address: 9.1.Parkour
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: a59b8c8da3d187248a41b8b76e18e512
-    m_Address: 10.ZoneTalks
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: af21059d1bf7ec748b36a3116af38a2a
+  - m_GUID: 9216abb4a7f875a49a1db2d1dfded7cc
     m_Address: WorldSettings
     m_ReadOnly: 0
     m_SerializedLabels: []
