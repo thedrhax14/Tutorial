@@ -1,14 +1,15 @@
 {
   "dependencies": {
     "com.outrealxr.holomod": {
-      "version": "https://github.com/Outreal-XR/HoloFair-SDK.git#a235f1d6e44543ba4cce861f897cc8f02fe46791",
+      "version": "https://github.com/Outreal-XR/HoloFair-SDK.git#openworld",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.unity.addressables": "1.19.18",
-        "com.unity.textmeshpro": "3.0.4"
+        "com.unity.textmeshpro": "3.0.4",
+        "com.outrealxr.networkimages": "1.0.0"
       },
-      "hash": "a235f1d6e44543ba4cce861f897cc8f02fe46791"
+      "hash": "c58d85a7e16401ff5caad90cc87b2a0384c52020"
     },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
@@ -37,7 +38,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.analytics": {
-      "version": "3.5.3",
+      "version": "3.6.12",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -46,7 +47,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.cinemachine": {
-      "version": "2.7.3",
+      "version": "2.8.4",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
@@ -69,80 +70,29 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.vscode": {
-      "version": "1.2.3",
+      "version": "1.2.5",
       "depth": 0,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.mathematics": {
-      "version": "1.1.0",
-      "depth": 2,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.multiplayer-hlapi": {
-      "version": "1.0.6",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "nuget.mono-cecil": "0.1.6-preview"
-      },
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.postprocessing": {
-      "version": "2.3.0",
-      "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.probuilder": {
-      "version": "4.5.0",
+      "version": "5.0.3",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.unity.settings-manager": "1.0.3"
+        "com.unity.settings-manager": "1.0.3",
+        "com.unity.modules.physics": "1.0.0",
+        "com.unity.modules.imgui": "1.0.0"
       },
       "url": "https://packages.unity.com"
     },
     "com.unity.recorder": {
-      "version": "2.5.5",
+      "version": "3.0.3",
       "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.timeline": "1.0.0"
-      },
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.render-pipelines.core": {
-      "version": "10.4.0",
-      "depth": 2,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.ugui": "1.0.0"
-      },
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.render-pipelines.lightweight": {
-      "version": "10.4.0",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.render-pipelines.universal": "10.4.0",
-        "com.unity.postprocessing": "2.1.7"
-      },
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.render-pipelines.universal": {
-      "version": "10.4.0",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.mathematics": "1.1.0",
-        "com.unity.render-pipelines.core": "10.4.0",
-        "com.unity.shadergraph": "10.4.0"
       },
       "url": "https://packages.unity.com"
     },
@@ -153,28 +103,11 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-    "com.unity.searcher": {
-      "version": "4.3.1",
-      "depth": 3,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.com"
-    },
     "com.unity.settings-manager": {
       "version": "1.0.3",
       "depth": 1,
       "source": "registry",
       "dependencies": {},
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.shadergraph": {
-      "version": "10.4.0",
-      "depth": 2,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.render-pipelines.core": "10.4.0",
-        "com.unity.searcher": "4.3.1"
-      },
       "url": "https://packages.unity.com"
     },
     "com.unity.test-framework": {
@@ -189,8 +122,8 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.textmeshpro": {
-      "version": "3.0.4",
-      "depth": 1,
+      "version": "3.0.6",
+      "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.ugui": "1.0.0"
@@ -198,7 +131,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.timeline": {
-      "version": "1.4.8",
+      "version": "1.6.4",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -217,13 +150,6 @@
         "com.unity.modules.ui": "1.0.0",
         "com.unity.modules.imgui": "1.0.0"
       }
-    },
-    "nuget.mono-cecil": {
-      "version": "0.1.6-preview",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.com"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
