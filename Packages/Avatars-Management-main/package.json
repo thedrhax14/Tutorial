@@ -1,0 +1,19 @@
+{
+  "name": "com.outrealxr.avatars",
+  "version": "1.0.9",
+  "displayName": "Avatars Management",
+  "unity": "2020.3",
+  "keywords": [
+    "HoloMod",
+    "Modding",
+    "Customize"
+  ],
+  "author": {
+    "name": "Outreal XR",
+    "email": "mailer@outrealxr.com"
+  },
+  "dependencies": {
+    "com.unity.addressables": "1.19.18"
+  },
+  "hideInEditor": false
+}

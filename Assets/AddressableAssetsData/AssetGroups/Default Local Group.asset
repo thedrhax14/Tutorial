@@ -37,6 +37,26 @@ MonoBehaviour:
     m_Address: WorldSettings
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: 6454d291a60412e4bb3c417f861e0b2d
+    m_Address: ybot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8053a82ea7fe44543bf0e3b63bc489f6
+    m_Address: ybot - blue
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ed487df7463000046832cb5b9436bb1b
+    m_Address: ybot - green
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 52bd3534120850749a2ee74fb9d786ac
+    m_Address: ybot - red
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 880ad7ea93e5db141adbd1f5fe1fc835
+    m_Address: ybot - standard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: d00becaeafae8a343b3a317a871d1a01, type: 2}
   m_SchemaSet:

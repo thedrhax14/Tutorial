@@ -1,5 +1,13 @@
 {
   "dependencies": {
+    "com.outrealxr.avatars": {
+      "version": "file:Avatars-Management-main",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.addressables": "1.19.18"
+      }
+    },
     "com.outrealxr.holomod": {
       "version": "https://github.com/Outreal-XR/HoloFair-SDK.git#openworld",
       "depth": 0,
