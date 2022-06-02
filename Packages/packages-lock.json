@@ -9,22 +9,20 @@
       }
     },
     "com.outrealxr.holomod": {
-      "version": "https://github.com/Outreal-XR/HoloFair-SDK.git#openworld",
+      "version": "file:D:/Unity3d Projects/HoloFair - OpenWorld/Packages/HoloMod",
       "depth": 0,
-      "source": "git",
+      "source": "local",
       "dependencies": {
         "com.unity.addressables": "1.19.18",
         "com.unity.textmeshpro": "3.0.4",
-        "com.outrealxr.networkimages": "1.0.0"
-      },
-      "hash": "7ecf1b7bcac51ab2ea829bb68ffa2a9b2197aa07"
+        "com.outrealxr.networkimages": "1.0.1"
+      }
     },
     "com.outrealxr.networkimages": {
-      "version": "https://github.com/thedrhax14/NetworkImages.git",
+      "version": "file:D:/Unity3d Projects/HoloFair - OpenWorld/Packages/NetworkImages",
       "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "393565c1be4125d6ca4760c03333a7b00b04d52d"
+      "source": "local",
+      "dependencies": {}
     },
     "com.sag.guid-references": {
       "version": "https://github.com/STARasGAMES/Guid-References.git#upm",

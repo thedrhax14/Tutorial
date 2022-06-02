@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "com.outrealxr.holomod": "https://github.com/Outreal-XR/HoloFair-SDK.git#openworld",
-    "com.outrealxr.networkimages": "https://github.com/thedrhax14/NetworkImages.git",
+    "com.outrealxr.holomod": "file:D:/Unity3d Projects/HoloFair - OpenWorld/Packages/HoloMod",
+    "com.outrealxr.networkimages": "file:D:/Unity3d Projects/HoloFair - OpenWorld/Packages/NetworkImages",
     "com.sag.guid-references": "https://github.com/STARasGAMES/Guid-References.git#upm",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
