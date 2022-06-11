@@ -17,7 +17,7 @@ MonoBehaviour:
     m_SubObjectName: 
     m_SubObjectType: 
     m_EditorAssetChanged: 0
-  sceneZonesPrefab: {fileID: 8036965394559175116, guid: c7b88f7b7efd5df47b8a79c13016c122, type: 3}
+  sceneZonesPrefab: {fileID: 8036965394559175116, guid: e1605c8ce22e2794f8dae00dd90c3611, type: 3}
   maxVariables: 15
   maxUsers: 2000
   maxSpectators: 0
