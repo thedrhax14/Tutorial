@@ -1,5 +1,18 @@
 {
   "dependencies": {
+    "com.atteneder.gltfast": {
+      "version": "https://github.com/atteneder/glTFast.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.modules.jsonserialize": "1.0.0",
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.modules.unitywebrequesttexture": "1.0.0",
+        "com.unity.mathematics": "1.2.6",
+        "com.unity.burst": "1.6.6"
+      },
+      "hash": "93aed43055fea580cc5452df349e6304609eb787"
+    },
     "com.outrealxr.avatars": {
       "version": "file:Avatars-Management-main",
       "depth": 0,
@@ -67,7 +80,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.burst": {
-      "version": "1.6.5",
+      "version": "1.6.6",
       "depth": 1,
       "source": "registry",
       "dependencies": {

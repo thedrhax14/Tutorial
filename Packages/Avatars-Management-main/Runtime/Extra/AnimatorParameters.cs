@@ -7,8 +7,8 @@ namespace com.outrealxr.avatars
 
         public enum TimeType
         {
-            deltaTime,
-            fixedDeltaTime
+            fixedDeltaTime,
+            deltaTime
         }
 
         public string SpeedParameter = "Speed";
@@ -16,7 +16,7 @@ namespace com.outrealxr.avatars
         public float AnimSpeedMultiplier = 1;
         public float LerpSpeed = 25f;
         public TimeType timeType;
-        Animator animator = null;
+        [SerializeField] Animator animator = null;
         Vector3 previousPosition = Vector3.zero;
 
         private void Awake()
