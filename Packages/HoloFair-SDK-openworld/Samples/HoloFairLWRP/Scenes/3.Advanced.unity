@@ -1408,7 +1408,7 @@ GameObject:
   - component: {fileID: 155011947}
   - component: {fileID: 155011946}
   - component: {fileID: 155011949}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Open
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1547,8 +1547,8 @@ MonoBehaviour:
   OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1659834427}
-        m_TargetAssemblyTypeName: outrealxr.holomod.AnimatorModel, outrealxr.holomod
+      - m_Target: {fileID: 1659834422}
+        m_TargetAssemblyTypeName: outrealxr.holomod.AnimatorProvider, outrealxr.holomod
         m_MethodName: SetStateName
         m_Mode: 5
         m_Arguments:
@@ -1559,10 +1559,10 @@ MonoBehaviour:
           m_StringArgument: Open
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1659834426}
-        m_TargetAssemblyTypeName: outrealxr.holomod.BasicAnimatorView, outrealxr.holomod
-        m_MethodName: Apply
-        m_Mode: 1
+      - m_Target: {fileID: 1659834424}
+        m_TargetAssemblyTypeName: outrealxr.holomod.View, outrealxr.holomod
+        m_MethodName: SendMessageToController
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -1605,7 +1605,7 @@ Transform:
   m_Children:
   - {fileID: 1614571021}
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &165471485
 MeshCollider:
@@ -3707,7 +3707,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &398420580
 MonoBehaviour:
@@ -5952,7 +5952,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh27774
+  m_Name: pb_Mesh43258
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -6142,7 +6142,7 @@ Transform:
   - {fileID: 1811555224}
   - {fileID: 1593054986}
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &578177766
 GameObject:
@@ -7548,7 +7548,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &821540470
 MonoBehaviour:
@@ -9483,7 +9483,7 @@ Transform:
   - {fileID: 1614618776}
   - {fileID: 1172715674}
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
 --- !u!1 &1094603803
 GameObject:
@@ -10527,7 +10527,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1223479080
 MonoBehaviour:
@@ -11384,7 +11384,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1360723038
 MonoBehaviour:
@@ -11522,7 +11522,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
 --- !u!114 &1363277162
 MonoBehaviour:
@@ -17024,7 +17024,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-8372
+  m_Name: pb_Mesh-53848
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -17359,7 +17359,7 @@ GameObject:
   - component: {fileID: 1498723875}
   - component: {fileID: 1498723874}
   - component: {fileID: 1498723873}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Close
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17435,8 +17435,8 @@ MonoBehaviour:
   OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1659834427}
-        m_TargetAssemblyTypeName: outrealxr.holomod.AnimatorModel, outrealxr.holomod
+      - m_Target: {fileID: 1659834422}
+        m_TargetAssemblyTypeName: outrealxr.holomod.AnimatorProvider, outrealxr.holomod
         m_MethodName: SetStateName
         m_Mode: 5
         m_Arguments:
@@ -17447,10 +17447,10 @@ MonoBehaviour:
           m_StringArgument: Close
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1659834426}
-        m_TargetAssemblyTypeName: outrealxr.holomod.BasicAnimatorView, outrealxr.holomod
-        m_MethodName: Apply
-        m_Mode: 1
+      - m_Target: {fileID: 1659834424}
+        m_TargetAssemblyTypeName: outrealxr.holomod.View, outrealxr.holomod
+        m_MethodName: SendMessageToController
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -18810,7 +18810,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-8392
+  m_Name: pb_Mesh-4416
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -19288,7 +19288,7 @@ PrefabInstance:
       objectReference: {fileID: 1575799271}
     - target: {fileID: 715197091626990428, guid: 0be898af05b5d884eb49f80c6ef80396, type: 3}
       propertyPath: m_VersionIndex
-      value: 21
+      value: 18
       objectReference: {fileID: 0}
     - target: {fileID: 1093554743789452171, guid: 0be898af05b5d884eb49f80c6ef80396, type: 3}
       propertyPath: m_Mesh
@@ -19312,7 +19312,7 @@ PrefabInstance:
       objectReference: {fileID: 1460635903}
     - target: {fileID: 4285101808286518427, guid: 0be898af05b5d884eb49f80c6ef80396, type: 3}
       propertyPath: m_VersionIndex
-      value: 24
+      value: 21
       objectReference: {fileID: 0}
     - target: {fileID: 4420557606387231434, guid: 0be898af05b5d884eb49f80c6ef80396, type: 3}
       propertyPath: serializedGuid.Array.size
@@ -19386,10 +19386,6 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 1575799271}
-    - target: {fileID: 5850888288839623821, guid: 0be898af05b5d884eb49f80c6ef80396, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 6180579012371510378, guid: 0be898af05b5d884eb49f80c6ef80396, type: 3}
       propertyPath: m_Mesh
       value: 
@@ -19408,7 +19404,7 @@ PrefabInstance:
       objectReference: {fileID: 1983810165}
     - target: {fileID: 6656477009623769196, guid: 0be898af05b5d884eb49f80c6ef80396, type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 6656477009623769196, guid: 0be898af05b5d884eb49f80c6ef80396, type: 3}
       propertyPath: m_LocalPosition.x
@@ -19517,9 +19513,10 @@ GameObject:
   - component: {fileID: 1659834417}
   - component: {fileID: 1659834416}
   - component: {fileID: 1659834421}
+  - component: {fileID: 1659834424}
+  - component: {fileID: 1659834423}
+  - component: {fileID: 1659834422}
   - component: {fileID: 1659834425}
-  - component: {fileID: 1659834427}
-  - component: {fileID: 1659834426}
   m_Layer: 0
   m_Name: Door
   m_TagString: Untagged
@@ -20246,7 +20243,7 @@ Transform:
   - {fileID: 155011945}
   - {fileID: 1498723872}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &1659834421
 Animator:
@@ -20268,6 +20265,57 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &1659834422
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1659834415}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4365f25ffdbadc9498d542e25060fedf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isDirty: 0
+  stateName: Door Close
+  layerIndex: 0
+  normalizedTimeParameterName: progress
+  now: 0
+  startTime: 0
+  elapsedTime: 0
+  animationLength: 0
+  animator: {fileID: 1659834421}
+--- !u!114 &1659834423
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1659834415}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eceae4861f595504495a0e7c3b9b69a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Addressable: 
+  provider: {fileID: 1659834422}
+  view: {fileID: 1659834424}
+  reportMissingKeys: 0
+--- !u!114 &1659834424
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1659834415}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee4b4ebc159a55a4abade9812ccd35d9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  controller: {fileID: 0}
+  sendMessageOptions: 1
 --- !u!114 &1659834425
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20281,46 +20329,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializedGuid: d7bdb34143d3c74fa26c904f28fa6419
---- !u!114 &1659834426
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1659834415}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c4e6363817de4f54a8bd6073a802ce0b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  model: {fileID: 1659834427}
-  controller: {fileID: 0}
---- !u!114 &1659834427
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1659834415}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ff5cf32bdcc92a3428c9ac5483470084, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  MMOItemID: -1
-  Addressable: 
-  view: {fileID: 1659834426}
-  reportMissingKeys: 0
-  stateName: 
-  layerIndex: 0
-  normalizedTimeParameterName: progress
-  lagCompensationAmount: 100
-  now: 0
-  startTime: 0
-  elapsedTime: 0
-  animationLength: 0
-  animator: {fileID: 1659834421}
-  serverTimeDifference: 0
 --- !u!1 &1679555815
 GameObject:
   m_ObjectHideFlags: 0
@@ -22080,7 +22088,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1763676161
 MonoBehaviour:
