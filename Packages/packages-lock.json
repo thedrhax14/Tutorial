@@ -22,20 +22,21 @@
       }
     },
     "com.outrealxr.holomod": {
-      "version": "file:D:/Unity3d Projects/HoloFair - OpenWorld/Packages/HoloMod",
+      "version": "file:E:/HoloFair/HoloFair---OpenWorld/Packages/HoloFair-SDK",
       "depth": 0,
       "source": "local",
       "dependencies": {
         "com.unity.addressables": "1.19.18",
         "com.unity.textmeshpro": "3.0.4",
-        "com.outrealxr.networkimages": "1.0.1"
+        "com.unity.visualscripting": "1.7.8"
       }
     },
     "com.outrealxr.networkimages": {
-      "version": "file:D:/Unity3d Projects/HoloFair - OpenWorld/Packages/NetworkImages",
+      "version": "https://github.com/thedrhax14/NetworkImages.git",
       "depth": 0,
-      "source": "local",
-      "dependencies": {}
+      "source": "git",
+      "dependencies": {},
+      "hash": "69230aad98efd117131d32477e7c8538a651358d"
     },
     "com.sag.guid-references": {
       "version": "https://github.com/STARasGAMES/Guid-References.git#upm",
@@ -236,6 +237,16 @@
         "com.unity.modules.ui": "1.0.0",
         "com.unity.modules.imgui": "1.0.0"
       }
+    },
+    "com.unity.visualscripting": {
+      "version": "1.7.8",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
