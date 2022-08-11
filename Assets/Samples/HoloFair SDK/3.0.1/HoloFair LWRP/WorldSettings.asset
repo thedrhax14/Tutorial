@@ -22,3 +22,4 @@ MonoBehaviour:
   maxUsers: 2000
   maxSpectators: 0
   AreaofInterest: {x: 25, y: 25, z: 25}
+  unverifiedUsersAllowed: 0
