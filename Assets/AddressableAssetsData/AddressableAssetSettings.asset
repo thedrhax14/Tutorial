@@ -43,6 +43,7 @@ MonoBehaviour:
   m_GroupAssets:
   - {fileID: 11400000, guid: 33e54d18c9b601545b25e78df681a708, type: 2}
   - {fileID: 11400000, guid: ce138796ced4cc54cbf51d65df4b9421, type: 2}
+  - {fileID: 11400000, guid: 961f04f6e5783c54e9e39ea3586c952a, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -64,6 +65,20 @@ MonoBehaviour:
         m_Value: ServerData/[BuildTarget]
       - m_Id: da36bdbe1a8cea44b91ab223d395eac7
         m_Value: https://holofair.b-cdn.net/addressables/Tutorial/[BuildTarget]
+    - m_InheritedParent: 
+      m_Id: 1bff9bfe361d4f841b1f38fc4e8196a0
+      m_ProfileName: S3
+      m_Values:
+      - m_Id: 215772a37cf4b1b43ade4595562924a6
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 5652e732e973a1d40a520d33307a8e8f
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: fb689e7fa2c6fce4b8f4febb7da6804f
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: bc71f710b4a78464882d03bc7c043e3b
+        m_Value: ServerData/S3/addressables/[UnityEngine.Application.unityVersion]/[UnityEngine.Application.productName]/[BuildTarget]
+      - m_Id: da36bdbe1a8cea44b91ab223d395eac7
+        m_Value: https://holofair-mena.s3.me-south-1.amazonaws.com/addressables/[UnityEngine.Application.unityVersion]/[UnityEngine.Application.productName]/[BuildTarget]
     m_ProfileEntryNames:
     - m_Id: 215772a37cf4b1b43ade4595562924a6
       m_Name: BuildTarget
@@ -98,7 +113,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 02d3a837e32046c479d1b11e93fb8b0c, type: 2}
   - {fileID: 11400000, guid: 8e3c20133cfe1c34fa2fe2ad92f0b48a, type: 2}
   - {fileID: 11400000, guid: bca362fb0086cc74e94ffd7f43485230, type: 2}
-  m_ActiveProfileId: 155e9e3610c629a43bb5aed9cd3600be
+  m_ActiveProfileId: 1bff9bfe361d4f841b1f38fc4e8196a0
   m_HostingServicesManager:
     m_HostingServiceInfos: []
     m_Settings: {fileID: 11400000}

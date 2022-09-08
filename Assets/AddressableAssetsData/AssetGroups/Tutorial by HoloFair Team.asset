@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Tutorial by HoloFair Team
+  m_EditorClassIdentifier: 
+  m_GroupName: Tutorial by HoloFair Team
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 49c52f48777276e4789dc56256d4c4ef
+  m_SerializeEntries:
+  - m_GUID: 024fd55cb012193469c9c117d136b111
+    m_Address: WorldSettings
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1613e26617b24ef478f82b8d2d29adec
+    m_Address: 3.Advanced
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 657b1dd94b2a561488580d3c150ddc1c
+    m_Address: 1.GetStarted - Part 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7a17b8ae80584cc41bd3f036780f2e7b
+    m_Address: 2.Basic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2df89e05905ce144480c970f6ca4ca0b
+    m_Address: 1.GetStarted - Part 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1342918cbb42699498790222b429d3a6
+    m_Address: 1.GetStarted
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d00becaeafae8a343b3a317a871d1a01, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f38036a23c0becc46a659973450454bb, type: 2}
+    - {fileID: 11400000, guid: 39e4ffef6afd5294bbe69da44f57f91e, type: 2}
