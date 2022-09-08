@@ -1,8 +1,8 @@
 {
   "dependencies": {
     "com.atteneder.gltfast": "https://github.com/atteneder/glTFast.git",
-    "com.outrealxr.avatars": "file:E:/HoloFair/HoloFair---OpenWorld/Packages/Avatars-Management",
-    "com.outrealxr.holomod": "file:E:/HoloFair/HoloFair---OpenWorld/Packages/HoloFair-SDK",
+    "com.outrealxr.avatars": "file:D:/Unity3d Projects/HoloFair - OpenWorld/Packages/Avatars-Management",
+    "com.outrealxr.holomod": "file:D:/Unity3d Projects/HoloFair - OpenWorld/Packages/HoloFair-SDK",
     "com.outrealxr.networkimages": "https://github.com/thedrhax14/NetworkImages.git",
     "com.sag.guid-references": "https://github.com/STARasGAMES/Guid-References.git#upm",
     "com.unity.2d.sprite": "1.0.0",

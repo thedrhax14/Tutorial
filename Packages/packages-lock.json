@@ -14,7 +14,7 @@
       "hash": "93aed43055fea580cc5452df349e6304609eb787"
     },
     "com.outrealxr.avatars": {
-      "version": "file:E:/HoloFair/HoloFair---OpenWorld/Packages/Avatars-Management",
+      "version": "file:D:/Unity3d Projects/HoloFair - OpenWorld/Packages/Avatars-Management",
       "depth": 0,
       "source": "local",
       "dependencies": {
@@ -22,7 +22,7 @@
       }
     },
     "com.outrealxr.holomod": {
-      "version": "file:E:/HoloFair/HoloFair---OpenWorld/Packages/HoloFair-SDK",
+      "version": "file:D:/Unity3d Projects/HoloFair - OpenWorld/Packages/HoloFair-SDK",
       "depth": 0,
       "source": "local",
       "dependencies": {
