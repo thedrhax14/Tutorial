@@ -14,15 +14,15 @@
       "hash": "93aed43055fea580cc5452df349e6304609eb787"
     },
     "com.outrealxr.avatars": {
-      "version": "file:Avatars-Management-main",
+      "version": "file:E:/HoloFair/HoloFair---OpenWorld/Packages/Avatars-Management",
       "depth": 0,
-      "source": "embedded",
+      "source": "local",
       "dependencies": {
         "com.unity.addressables": "1.19.18"
       }
     },
     "com.outrealxr.holomod": {
-      "version": "file:D:/Unity3d Projects/HoloFair - OpenWorld/Packages/HoloMod",
+      "version": "file:E:/HoloFair/HoloFair---OpenWorld/Packages/HoloFair-SDK",
       "depth": 0,
       "source": "local",
       "dependencies": {
@@ -32,10 +32,11 @@
       }
     },
     "com.outrealxr.networkimages": {
-      "version": "file:D:/Unity3d Projects/HoloFair - OpenWorld/Packages/NetworkImages",
+      "version": "https://github.com/thedrhax14/NetworkImages.git",
       "depth": 0,
-      "source": "local",
-      "dependencies": {}
+      "source": "git",
+      "dependencies": {},
+      "hash": "abadc50ec0f57b04b7e3aed1f10f83ebb715b860"
     },
     "com.sag.guid-references": {
       "version": "https://github.com/STARasGAMES/Guid-References.git#upm",
